@@ -9,7 +9,7 @@ Please also look at the instructions under the "Base Items" header.
 
 # Table of Contents
 1. [Loot Filters](https://github.com/WolfieeifloW/lodfilter#loot-filters)
-   * [Detailed](https://github.com/WolfieeifloW/lodfilter#detailed_lod)
+   * [Detailed](https://github.com/WolfieeifloW/lodfilter#detailed-lod)
 2. [Discord](https://github.com/WolfieeifloW/lodfilter#discord)
 3. [Informative Links](https://github.com/WolfieeifloW/lodfilter#informative-links)
 4. [Common Issues](https://github.com/WolfieeifloW/lodfilter#common-issues)
