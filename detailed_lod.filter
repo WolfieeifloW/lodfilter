@@ -32,7 +32,7 @@
 // |                                                                            |
 // +----------------------------------------------------------------------------+
 // If the table looks weird/is skipping lines please turn off Word Wrap in your text editor.
-// Use the code between [] to search (with Match Case/Case Sensitivity turned on) and jump to that section of the filter.
+// Use the code between and including the [] to search (with Match Case/Case Sensitivity turned on) and jump to that section of the filter.
 //
 // +-----------------------------------------+-----------------------------------------+-----------------------------------------+-----------------------------------------+
 // |   [QUES] Quest Items                (1) |   [UNIQ] Unique Items               (2) |   [SETS] Set Items                  (3) |   [RARI] Rare Items                 (4) |
@@ -62,8 +62,8 @@
 // |         [RUHI] High Runes               |         [UWBO] Bows                     |         [SITD] The Disciple             |         [RWBO] Bows                     |
 // |   [ITEM] Item Basics                    |         [UWCR] Crossbows                |         [SIGL] Griswold's Legacy        |         [RWCR] Crossbows                |
 // |      [IBAD] Eth/Sockets/Item Level      |         [UWDA] Daggers                  |         [SIHB] Heaven's Brethren        |         [RWDA] Daggers                  |
-// |      [IBOT] Other Items                 |         [UWJA] Javelins                 |         [SIHM] Hwanin's Majesty         |         [RWJA] Javelins                 |
-// |      [IBVE] Vendor Items                |         [UWMA] Maces                    |         [SIIK] Immortal King            |         [RWMA] Maces                    |
+// |      [IBVE] Vendor Items                |         [UWJA] Javelins                 |         [SIHM] Hwanin's Majesty         |         [RWJA] Javelins                 |
+// |      [IBOT] Other Items                 |         [UWMA] Maces                    |         [SIIK] Immortal King            |         [RWMA] Maces                    |
 // |                                         |         [UWPO] Polearms                 |         [SIMB] M'avina's Battle Hymn    |         [RWPO] Polearms                 |
 // |                                         |         [UWSC] Scepters                 |         [SINO] Natalya's Odium          |         [RWSC] Scepters                 |
 // |                                         |         [UWSP] Spears                   |         [SINA] Naj's Ancient Vestige    |         [RWSP] Spears                   |
@@ -75,7 +75,7 @@
 // |                                         |                                         |      [SIMA] Set Items Master            |      [RIMA] Rare Items Master           |
 // |                                         |                                         |                                         |                                         |
 // +-----------------------------------------+-----------------------------------------+-----------------------------------------+-----------------------------------------+
-// |   [CRAF] Crafted Items              (5) |   [MAGI] Magic Items                (6) |   [BASE] Base Items                 (7) |   [RAND] Random Information         (8) |
+// |   [CRAF] Crafted Items              (5) |   [MAGI] Magic Items                (6) |   [BASE] Base Items                 (7) |                                         |
 // |      [CIMI] Crafted Miscellaneous       |      [MIMI] Magic Miscellaneous         |      [BICO] Consumables                 |                                         |
 // |         [CMAM] Amulets                  |         [MMAM] Amulets                  |         [BCGO] Gold                     |                                         |
 // |         [CMCH] Charms                   |         [MMCH] Charms                   |         [BCKE] Keys                     |                                         |
@@ -1528,7 +1528,7 @@ ItemDisplay[RARE LVLREQ<31 MINDMG>4 MAXDMG>9 jew]: %NAME%{%ORANGE%Note:%TAN% Goo
 ItemDisplay[RARE LVLREQ<31 STAT91=-15 (RES>7 OR ED>14 OR MAXDMG>7 OR MINDMG>6 OR STR>4 OR DEX>5) jew]: %NAME%{%ORANGE%Note:%TAN% Good for LLD} // -Requirements, and 8%+ All Resist, 15%+ Enhanced Damage, 8+ Maximum Damage, 7+ Minimum Damage, 5+ Strength, or 6+ Dexterity
 
 // ------------------------------------------------------------------------------
-//       [RMRI] Rings
+//      [RMRI] Rings
 // ------------------------------------------------------------------------------
 ItemDisplay[RARE !ID rin]: %NAME%%MAP-A8% // All unidentified rings
 
@@ -3068,7 +3068,7 @@ ItemDisplay[MAG LVLREQ<31 RES>9 (STR>4 OR DEX>5) jew]: %NAME%{%ORANGE%Note:%TAN%
 ItemDisplay[MAG LVLREQ<31 STAT91=-15 (RES>10 OR ED>14 OR MAXDMG>7 OR MINDMG>6) jew]: %NAME%{%ORANGE%Note:%TAN% Good for LLD} // -Requirements, and 11%+ All Resist, 15%+ Enhanced Damage, 8+ Maximum Damage, or 7+ Minimum Damage
 
 // ------------------------------------------------------------------------------
-//       [MMRI] Rings
+//      [MMRI] Rings
 // ------------------------------------------------------------------------------
 ItemDisplay[MAG !ID rin]: %NAME% // All unidentified rings
 
