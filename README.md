@@ -12,10 +12,10 @@ Please also look at the instructions under the "Base Items" header.
 1. [Loot Filters](https://github.com/WolfieeifloW/lodfilter#loot-filters)
    * [Detailed](https://github.com/WolfieeifloW/lodfilter#detailed-lod)
 2. [Discord](https://github.com/WolfieeifloW/lodfilter#discord)
-3. [Informative Links](https://github.com/WolfieeifloW/lodfilter#informative-links)
-4. [Common Issues](https://github.com/WolfieeifloW/lodfilter#common-issues)
-5. [FAQ](https://github.com/WolfieeifloW/lodfilter#faq)
-6. [Donations](https://github.com/WolfieeifloW/lodfilter#donations)
+3. [Donations](https://github.com/WolfieeifloW/lodfilter#donations)
+4. [Informative Links](https://github.com/WolfieeifloW/lodfilter#informative-links)
+5. [Common Issues](https://github.com/WolfieeifloW/lodfilter#common-issues)
+6. [FAQ](https://github.com/WolfieeifloW/lodfilter#faq)
 7. [Disclaimer](https://github.com/WolfieeifloW/lodfilter#disclaimer)
 
 # Loot Filters
@@ -24,6 +24,11 @@ Please also look at the instructions under the "Base Items" header.
 # Discord
 Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)  
 I've created a Discord for my filter so that you can get pinged when there's an update so you can know when to grab the new update in the launcher!
+
+# Donations
+Donation link: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9JARHKMQ9UU3S&item_name=Project+Diablo+2+Loot+Filter&currency_code=CAD)  
+Donations are not required in any way but I very much appreciate all who support me in this fashion!  
+If you wish you can get the "Donator" role in my [Discord](https://github.com/WolfieeifloW/lodfilter#discord) as well!
 
 # Informative Links
 * **Info for Filter:** <https://github.com/planqi/slashdiablo-maphack/wiki/Advanced-Item-Display>
@@ -49,11 +54,6 @@ These are the common problems that people seem to run into. Please check each of
   * Turn off `Advanced Item Display` in the in-game settings, close your game and launcher, delete `default.filter` and `loot.filter` in the Diablo II folder, and then reload the game
 * **My Settings button is gone?**
   * Close the game & the launcher, delete `UI.ini`, and then relaunch the game. Note you may have to redo your settings (look at the image in [Common Issues](https://github.com/WolfieeifloW/lodfilter#common-issues))
-
-# Donations
-Donation link: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9JARHKMQ9UU3S&item_name=Project+Diablo+2+Loot+Filter&currency_code=CAD)  
-Donations are not required in any way but I very much appreciate all who support me in this fashion!  
-If you wish you can get the "Donator" role in my [Discord](https://github.com/WolfieeifloW/lodfilter#discord) as well!
 
 # Disclaimer
 For all versions of the filter I take no responsibility for any items that are accidentally hidden and/or do not notify. I do try my best to test these filters and ensure they are working properly but there's always room for error.
