@@ -21,7 +21,7 @@ Please also look at the instructions under the "Base Items" header.
 ### [Detailed LoD](https://raw.githubusercontent.com/WolfieeifloW/lodfilter/main/detailed_lod.filter)  
 
 # Discord
-Discord link: [WolfieeifloW's PD2 Filters](https://discord.gg/6bM8AtYGAq)  
+Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)  
 I've created a Discord for my filter so that you can get pinged when there's an update so you can know when to grab the new update in the launcher!
 
 # Informative Links
