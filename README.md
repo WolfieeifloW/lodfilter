@@ -2,7 +2,7 @@
 
 I have created a Discord so that you can be notified when I update my filter. Take a look [HERE](https://github.com/WolfieeifloW/lodfilter#discord) for more info!  
 Looking for a PlugY Stash to test the filter? Check it out [HERE](https://github.com/WolfieeifloW/LoD-PlugY-Stash)!  
-Looking for my PD2 filters? Check it out [HERE](https://github.com/WolfieeifloW/pd2filter)!
+Looking for my PD2 filters? Check them out [HERE](https://github.com/WolfieeifloW/pd2filter)!
 
 **TOO MANY BLUE OR WHITE ITEMS?**  
 Check the "Magic Items Master" and "Base Items Master" sections.  
